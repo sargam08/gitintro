@@ -1,2 +1,2 @@
 # gitintro
-Intro to git and github
+Intro to git and github. Author - Sargam Sharma
